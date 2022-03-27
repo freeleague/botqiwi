@@ -17,15 +17,15 @@ from datetime import timedelta
 
 from time import sleep
 
-bot = telebot.TeleBot('')  # токен бота
+bot = telebot.TeleBot('5097135417:AAEcUEm_benBpN4zJsainD3gSKCbXSRPcbk')  # токен бота
 
-admin = [11111111] # айди одменов
+admin = [1623380569] # айди одменов
 
 amount = 60  # цена доступа
 
-phone = '' # твой номер телефона qiwi
+phone = '+79688066555' # твой номер телефона qiwi
 
-token = '' # твой токен кошелька киви
+token = 'b1b3d2e1b8e4364555847dba67ff347c' # твой токен кошелька киви
 
 in_deposit = []
 
